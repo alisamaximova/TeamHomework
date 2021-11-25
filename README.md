@@ -54,6 +54,7 @@ This sorting method is practically not used in practice, but it underlies other 
 
 The algorithmic scheme of bubble sorting looks like
 ![Screenshot](Bubble.png)
+
 ***
 ### *Heap Sort*
 
@@ -98,6 +99,9 @@ In all cases, its proven time complexity is O(n log(n))
   	}
 	}
 ```
+
+The algorithmic scheme of bubble sorting looks like
+![Screenshot](Heap.png)
 
 ***
 
