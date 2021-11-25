@@ -24,9 +24,12 @@ In terms of implementation and understanding, it is simple, but effective only f
 Therefore, its time complexity is O(n^2)
 
 This sorting method is practically not used in practice, but it underlies other more advanced ones, for example, fast and pyramidal.
-![hippo](https://codelessons.ru/wp-content/uploads/Animationfotsait.gif)
 
-Bubble sorting code
+<p align="center">
+![hippo](https://codelessons.ru/wp-content/uploads/Animationfotsait.gif)
+</p>
+
+*Bubble sorting code*
 ```c
 	void Swap(int *a, int *b) {
   	int temp = *a;
@@ -58,9 +61,11 @@ Pyramid sorting is one of the methods whose performance is estimated as O(n log(
 The amount of service memory used does not depend on the size of the array O(1), which is a big plus. 
 In all cases, its proven time complexity is O(n log(n))
 
+<p align="center">
 ![hippo](https://tproger.ru/s3/uploads/2017/09/Heap-Sort.gif)
+</p>
 
-Heap sorting code
+*Heap sorting code*
 ```c
 	void Swap(int *a, int *b) {
   	int temp = *a;
