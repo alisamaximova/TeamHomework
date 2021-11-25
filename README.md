@@ -105,7 +105,7 @@ The algorithmic scheme of bubble sorting looks like
 
 ***
 
-After writing the program code and testing it on a different number of elements of the sorted array, we built graphs of the time complexity of each of the sorting algorithms. 
+After writing the program code and testing it on a different number of elements of the array, we built graphs of the time complexity of each of the sorting algorithms. 
 They show that the discrepancy with the theoretical graphs is insignificant, each of the sorts coincides in time complexity with what we were supposed to get.
 
 Number of elements | Bubble Sorting time (s)
