@@ -53,7 +53,7 @@ This sorting method is practically not used in practice, but it underlies other 
 ```
 
 The algorithmic scheme of bubble sorting looks like
-![Screenshot](Алгорит. схема пузырька.PNG)
+![Screenshot](Алгор. схема пузырька.PNG)
 ***
 ### *Heap Sort*
 
