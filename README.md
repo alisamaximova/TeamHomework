@@ -12,7 +12,11 @@ plotting graphs and algorithmic schemes, as well as filling out a report and wor
 During the homework, each of the team members was involved.
 
 > Alice Maksimova - manager
+
 > David Bagdasarov - programmer
+
 > Nguyen Quang Hien - programmer
+
 > Evgeny Chelnokov - program tester
+
 > Anastasia Minasova - technical writer
