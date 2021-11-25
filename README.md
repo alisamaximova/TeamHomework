@@ -17,7 +17,7 @@ During the homework, each of the team members was involved.
 > Evgeny Chelnokov - program tester  
 > Anastasia Minasova - technical writer  
 
-## *Bubble Sort*
+### *Bubble Sort*
 
 Bubble sorting or sorting by simple exchanges is one of the quadratic array sorting algorithms. 
 In terms of implementation and understanding, it is simple, but effective only for small arrays. 
@@ -26,7 +26,7 @@ Therefore, its time complexity is O(n^2)
 This sorting method is practically not used in practice, but it underlies other more advanced ones, for example, fast and pyramidal.
 ![hippo](https://codelessons.ru/wp-content/uploads/Animationfotsait.gif)
 
-## *Heap Sort*
+### *Heap Sort*
 
 Pyramid sorting or heap sorting is a sorting method based on such a data structure as a binary heap – a complete binary tree in which all elements are stored in a special order.
 
@@ -35,3 +35,9 @@ The amount of service memory used does not depend on the size of the array O(1),
 In all cases, its proven time complexity is O(n log(n))
 
 ![hippo](https://tproger.ru/s3/uploads/2017/09/Heap-Sort.gif)
+
+After writing the program code and testing it on a different number of elements of the sorted array, we built graphs of the time complexity of each of the sorting algorithms. 
+They show that the discrepancy with the theoretical graphs is insignificant, each of the sorts coincides in time complexity with what we were supposed to get.
+
+![Screenshot](BubbleSort.jpg)
+![Screenshot](HeapSort.jpg)
